@@ -96,7 +96,7 @@
 }
 
 .main-four {
-  margin-top: 110px;
+  /* margin-top: 110px; */
 }
 
 .second-heading {
@@ -127,10 +127,8 @@
 
 .footer {
   margin-top: 95px;
-  /* width: 1440px; */
   height: 468px;
   background-color: rgba(0, 0, 0, 1);
-  /* padding: 20px 48px; */
 }
 .card-container {
   margin-top: 36px;
@@ -146,6 +144,9 @@
   width: 300px;
   height: 232px;
   margin: 20px;
+}
+.card_body {
+  background-color: rgba(243, 242, 242, 1);
 }
 
 .card-text {
@@ -179,7 +180,6 @@ hr {
   margin-top: 47px;
   height: 2px;
   color: rgba(255, 255, 255, 0.16);
-  color: pink;
 }
 
 .social-icon {
@@ -190,4 +190,8 @@ hr {
 }
 .a {
   margin-top: 80px;
+}
+.bottom-text {
+  font-weight: 500;
+  color: rgba(255, 255, 255, 1);
 }

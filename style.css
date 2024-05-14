@@ -130,5 +130,64 @@
   /* width: 1440px; */
   height: 468px;
   background-color: rgba(0, 0, 0, 1);
-  /* padding: 82px; */
+  /* padding: 20px 48px; */
+}
+.card-container {
+  margin-top: 36px;
+}
+.footer-logo {
+  margin-top: 80px;
+}
+.logo-container {
+  margin: 80px 0 18px 0;
+}
+
+.card_box {
+  width: 300px;
+  height: 232px;
+  margin: 20px;
+}
+
+.card-text {
+  font-weight: 600;
+  font-size: 28px;
+}
+.subscribe-btn {
+  border-image: linear-gradient(
+    to right,
+    rgba(89, 42, 120, 1),
+    rgba(207, 103, 202, 1)
+  );
+  height: 50px;
+  border-image-slice: 1;
+  border-width: 1px;
+  border-radius: 6px;
+}
+.top-footer {
+  padding: 0px 0;
+}
+.email-input {
+  background-color: #141414;
+  border-radius: 6px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  padding: 10px 20px 10px 20px;
+  height: 50px;
+  color: rgba(255, 255, 255, 0.2);
+}
+hr {
+  /* width: 1px; */
+  margin-top: 47px;
+  height: 2px;
+  color: rgba(255, 255, 255, 0.16);
+  color: pink;
+}
+
+.social-icon {
+  margin-top: 60px;
+}
+.bottom-footer {
+  margin-top: 28px;
+}
+.a {
+  margin-top: 80px;
 }
